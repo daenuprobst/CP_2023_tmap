@@ -2,3 +2,8 @@
 *__pycache__/*
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
+notebooks/**/*.csv
+notebooks/**/*.gz
+notebooks/**/*.mtx
+notebooks/**/*.h5ad
+densvis
